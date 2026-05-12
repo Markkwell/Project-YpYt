@@ -11,11 +11,11 @@
 
 # Возможности:
 - Анализ позитивных и негативных отзывов
-- 
+  
 - Очистка текста отзывов
-- 
+  
 - Анализ слов-триггеров
-- 
+  
 # Используемые датасеты:
 https://www.kaggle.com/datasets/akashunikaggle/steam-game-reviews-of-743-games?utm_source=chatgpt.com
 
