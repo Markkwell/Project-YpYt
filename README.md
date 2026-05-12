@@ -24,6 +24,10 @@ https://www.kaggle.com/datasets/andrewmvd/steam-reviews?utm_source=chatgpt.com
 # Технологии
 
 Проект написан на Python
-Использованны библиотеки:
+Использованны библиотек:
+- pandas
 
+- numpy
+
+- matplotlib
 # Установка
