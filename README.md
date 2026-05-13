@@ -30,4 +30,6 @@ https://www.kaggle.com/datasets/andrewmvd/steam-reviews?utm_source=chatgpt.com
 - numpy
 
 - matplotlib
+
+- scikit-learn
 # Установка
