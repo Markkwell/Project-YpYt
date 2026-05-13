@@ -34,4 +34,6 @@ https://www.kaggle.com/datasets/andrewmvd/steam-reviews?utm_source=chatgpt.com
 - matplotlib
 
 - scikit-learn
-# Установка
+# Аналоги и вдохновители:
+https://github.com/TabithaSW/Steam_SentimentAnalysis?utm_source=chatgpt.com
+https://github.com/shohinsayfiev/steam_reviews_analysis?utm_source=chatgpt.com
