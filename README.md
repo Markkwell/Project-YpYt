@@ -19,9 +19,9 @@
 
 - - Классификация отзывов с помощью ML
 # Используемые датасеты:
-https://www.kaggle.com/datasets/akashunikaggle/steam-game-reviews-of-743-games?utm_source=chatgpt.com
+https://www.kaggle.com/datasets/andrewmvd/steam-reviews?utm_source=chatgpt.com (лучший вариант)
 
-https://www.kaggle.com/datasets/andrewmvd/steam-reviews?utm_source=chatgpt.com
+https://www.kaggle.com/datasets/akashunikaggle/steam-game-reviews-of-743-games?utm_source=chatgpt.com
 
 # Технологии
 
