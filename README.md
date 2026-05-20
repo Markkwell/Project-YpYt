@@ -20,8 +20,8 @@
 - Классификация отзывов с помощью ML
 # Используемый датасет:
 https://www.kaggle.com/datasets/andrewmvd/steam-reviews/data
-
-# Технологии
+# Запуск проекта
+https://colab.research.google.com/github/Markkwell/Project-YpYt/blob/main/project1_by_Marko_Deko.ipynb
 
 Проект написан на Python
 Использованны библиотек:
