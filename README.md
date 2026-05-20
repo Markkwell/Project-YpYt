@@ -21,8 +21,8 @@ https://www.kaggle.com/datasets/andrewmvd/steam-reviews/data
 # Запуск проекта
 https://colab.research.google.com/github/Markkwell/Project-YpYt/blob/main/project1_by_Marko_Deko.ipynb
 
-Проект написан на Python
-Использованны библиотек:
+Проект написан на Python с
+Использованием библиотек:
 - pandas
 
 - numpy
