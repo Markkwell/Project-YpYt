@@ -75,6 +75,7 @@ https://www.kaggle.com/datasets/andrewmvd/steam-reviews/data
 ## 🚀 Запуск проекта
 
 Проект доступен для запуска через Google Colab:
+Для запуска проекта необходимо скачать приложенный датасет и разместить его в google colab, после необходимо запустить ячейку с кодом
 
 https://colab.research.google.com/github/Markkwell/Project-YpYt/blob/main/project1_by_Marko_Deko.ipynb
 
